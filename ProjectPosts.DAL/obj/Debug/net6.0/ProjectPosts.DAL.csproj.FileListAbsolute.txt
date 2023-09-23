@@ -1,0 +1,17 @@
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\bin\Debug\net6.0\ProjectPosts.DAL.deps.json
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\bin\Debug\net6.0\ProjectPosts.DAL.runtimeconfig.json
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\bin\Debug\net6.0\ProjectPosts.DAL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\bin\Debug\net6.0\ProjectPosts.DAL.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.AssemblyInfo.cs
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\refint\ProjectPosts.DAL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.genruntimeconfig.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ref\ProjectPosts.DAL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\bin\Debug\net6.0\ProjectPosts.EN.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\bin\Debug\net6.0\ProjectPosts.EN.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.DAL\obj\Debug\net6.0\ProjectPosts.DAL.csproj.CopyComplete

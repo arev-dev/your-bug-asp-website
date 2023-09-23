@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectPosts\ProjectPosts.BLL.csproj" />
+    <ProjectReference Include="..\ProjectPosts.EN\ProjectPosts.EN.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\Components\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>

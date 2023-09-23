@@ -1,0 +1,17 @@
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\bin\Debug\net6.0\ProjectPosts.BLL.deps.json
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\bin\Debug\net6.0\ProjectPosts.BLL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\bin\Debug\net6.0\ProjectPosts.BLL.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.AssemblyInfoInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.AssemblyInfo.cs
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\refint\ProjectPosts.BLL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ref\ProjectPosts.BLL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\bin\Debug\net6.0\ProjectPosts.DAL.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\bin\Debug\net6.0\ProjectPosts.EN.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\bin\Debug\net6.0\ProjectPosts.EN.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\bin\Debug\net6.0\ProjectPosts.DAL.pdb
+c:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts\obj\Debug\net6.0\ProjectPosts.BLL.csproj.CopyComplete

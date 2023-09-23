@@ -1,0 +1,12 @@
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\bin\Debug\net6.0\ProjectPosts.EN.deps.json
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\bin\Debug\net6.0\ProjectPosts.EN.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\bin\Debug\net6.0\ProjectPosts.EN.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ProjectPosts.EN.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ProjectPosts.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ProjectPosts.EN.AssemblyInfoInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ProjectPosts.EN.AssemblyInfo.cs
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ProjectPosts.EN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ProjectPosts.EN.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\refint\ProjectPosts.EN.dll
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ProjectPosts.EN.pdb
+C:\Users\Usuario1\Documents\C#\Apps\ASP\ProjectPosts\ProjectPosts\ProjectPosts.EN\obj\Debug\net6.0\ref\ProjectPosts.EN.dll

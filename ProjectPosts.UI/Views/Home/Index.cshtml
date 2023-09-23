@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* /*<div class="m-3">
+            <small class="bg-success text-white fw-bold p-1 rounded">C#</small>
+            <small class="bg-success text-white fw-bold p-1 rounded">.NET</small>
+            <small class="bg-success text-white fw-bold p-1 rounded">ASP</small>
+        </div>*/ *@
+
+    <div class="text-dark m-2 p-2 container">
+        <h1>Publicaciones</h1>
+            <div id="postContainer" class="m-4 p-3">
+                
+            </div>
+    </div>
+
+
+
+
+@section Scripts{
+   
+    <script>
+        
+
+        $(document).ready(() =>{
+            getPosts();
+        })
+
+        function getComment() {
+            fetch("Home/GetComment?Id_comment="+10) // Ajusta la URL para incluir el Id_comment en la ruta
+                .then((response) => {
+                    if (response.ok) {
+                        return response.json();
+                    } else {
+                        throw new Error("No se pudo obtener el comentario.");
+                    }
+                })
+                .then((data) => {
+                    console.log(data); // data es el objeto Comment serializado a JSON
+                })
+                .catch((error) => {
+                    console.error("Error al obtener el comentario:", error);
+                });
+        }
+
+
+        function getPosts(){
+            //fetch("Home/GetCommentReplies?Id_parent_comment="+parentCommentId)
+            fetch("Home/SPGetPosts")
+            .then((response) => {
+                return response.ok ? response.json() : Promise.reject(response);
+            })
+            .then((dataJson) =>{
+                dataJson.forEach((item)=>{
+                    var commentsCount = ""
+                    var likesCount = ""
+
+                    if (item.commentsCount > 1 || item.commentsCount == 0) {
+                        commentsCount = item.commentsCount + " Comentarios"
+                    } else {
+                        commentsCount = item.commentsCount + " Comentario"
+                    }
+
+                    if (item.likesCount > 1 || item.likesCount == 0) {
+                        likesCount = item.likesCount + " Likes"
+                    } else {
+                        likesCount = item.likesCount + " Like"
+                    }
+
+                    
+                    var FECHA = formatDateTimeNow(item.createdAt)
+                    var id_post = item.postId
+                    document.getElementById("postContainer").innerHTML += @await Html.PartialAsync("Partials/PostPartial")
+                })
+            })
+        }
+
+        function DoLike(IdPost){
+            //alert(IdPost)
+        }
+
+         function DoComment(a){
+            
+        }
+
+        $("#postContainer").on("click", ".btn-like", function(){
+            var xd = $(this).data("postid")
+            
+
+        })
+        
+
+        /*method: "POST",
+                headers:{
+                    'Content-Type':'aplication/json;charset=utf-8'
+                },
+                body: model
+            })*/
+
+        
+    </script>
+}
