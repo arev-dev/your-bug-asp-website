@@ -23,13 +23,13 @@ namespace ProjectPosts.UI.Controllers
 
         [HttpGet]
 
-        public IActionResult SPGetPosts(){
+        // public IActionResult SPGetPosts(){
 
-            IEnumerable<PostAllDTO> posts = _postService.GetAllPosts();
-            List<PostAllDTO> items = posts.ToList();
+        //     IEnumerable<PostAllDTO> posts = _postService.GetAllPosts();
+        //     List<PostAllDTO> items = posts.ToList();
 
-            return Ok(items);
-        }
+        //     return Ok(items);
+        // }
 
         // public async Task<IActionResult> GetAllPosts()
         // {

@@ -7,7 +7,7 @@ public class PostAllDTO
     public string? Username { get; set; }
     public string? Title { get; set; }
     public string? PostContent { get; set; }
-    public DateTime? CreatedAt { get; set; }
+    public DateTime CreatedAt { get; set; }
     public int? CommentsCount { get; set; }
     public int? LikesCount { get; set; }
 }

@@ -1,0 +1,47 @@
+@using ProjectPosts.EN;
+@using ProjectPosts.EN.DTO;
+@using ProjectPosts.BLL.Utils;
+
+@model List<PostAllDTO>
+
+
+@{
+    Layout = null;
+    
+}
+
+
+@foreach(var item in Model)
+{
+    
+    <div class="card mb-3">
+        <div class="card-header bg-white">
+            <div class="d-flex align-items-center">
+                <div class="rounded-circle " style="width: 40px; height: 40px;">
+                    <img class="rounded-circle " src="https://picsum.photos/40/40" alt="">
+                </div>
+                <div class="ms-3">
+                    <h6 class="fw-bold mb-0">@item.Username</h6>
+                    <p class="text-muted mb-0">@DateUtils.FormatDateTimeNow(item.CreatedAt)</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <h4 class="card-title fw-semibold">@item.Title</h4>
+            <p class="card-text text-secondary">@item.PostContent</p>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="btns-container d-flex justify-content-between">
+                <div>
+                    <button data-postmodel="@Model" data-postid="@item.PostId" class="btn-like btn btn-outline-primary me-2"><i class="fas fa-code"></i> Like</button>
+                    <button class="btn-comment btn btn-outline-primary"><i class="far fa-comment"></i> Comentar</button>
+                </div>
+                <div class="text-muted">
+                    <span class="ms-3">@item.LikesCount Likes</span>
+                    <span class="ms-3">@item.CommentsCount Comentarios</span>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
